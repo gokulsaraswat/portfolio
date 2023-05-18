@@ -60,7 +60,7 @@ _Notice how we use_ `ipconfig getifaddr en0` to get the current IP of the system
 
 For generating traffic we can use the `nats bench` command
 
-_Note: Learn more about NATS CLI in the previous [article](https://karanpratapsingh.com/blog/introduction-nats-cli)._
+_Note: Learn more about NATS CLI in the previous [article](https://gokulsaraswat.me/blog/introduction-nats-cli)._
 
 ```bash
 $ nats bench -s 127.0.0.1:4000 --msgs 100000000 --pub 1 --sub 1 --creds ../../nats-local-supercluster/auth/nkeys/creds/myoperator/myaccount/myuser.creds subject

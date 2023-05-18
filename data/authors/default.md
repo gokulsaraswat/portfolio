@@ -5,7 +5,7 @@ avatar: /static/avatar.jpeg
 occupation: Software Engineer
 company: Oracle
 resume: /static/Gokul_Resume.pdf
-email: contact@karanpratapsingh.com
+email: gokulsaraswat07@gmail.com
 twitter: https://twitter.com/gokulsaraswat
 linkedin: https://www.linkedin.com/in/gokulsaraswat
 github: https://github.com/gokulsaraswat

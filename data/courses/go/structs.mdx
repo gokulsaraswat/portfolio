@@ -119,7 +119,7 @@ func main() {
 ```bash
 $ go run main.go
 Person 1: {  0}
-Person 2: {Karan Pratap Singh 22}
+Person 2: {Gokul Saraswat 22}
 Person 3: {Tony Stark 0}
 ```
 
@@ -244,8 +244,8 @@ Both statements are equal as in Go we don't need to explicitly dereference the p
 func main() {
 	p := new(Person)
 
-	p.FirstName = "Karan"
-	p.LastName = "Pratap Singh"
+	p.FirstName = "Gokul"
+	p.LastName = "Saraswat"
 	p.Age = 22
 
 	fmt.Println("Person", p)
@@ -254,7 +254,7 @@ func main() {
 
 ```bash
 $ go run main.go
-Person &{Karan Pratap Singh 22}
+Person &{Gokul Saraswat 22}
 ```
 
 As a side note, two structs are equal if all their corresponding fields are equal as well.

@@ -36,7 +36,7 @@ export const projects: Project[] = [
     title: 'HyperTrade',
     slug: 'hypertrade',
     banner: '/static/projects/hypertrade/banner.png',
-    website: 'https://github.com/karanpratapsingh/HyperTrade',
+    website: 'https://github.com/gokulsaraswat/HyperTrade',
     description:
       'Ready to deploy, distributed cryptocurrency trading bot. The idea of this project originally came from a script I used to automate buying and selling of fiat assets. I was curious and wanted to scale it into a real system which can execute trades for me. I had a lot of fun building this. I got to play with lots of different technologies while growing my financial knowledge.',
     shortDescription:

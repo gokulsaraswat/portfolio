@@ -15,15 +15,15 @@ export interface Contact {
 }
 
 export const contact: Contact = {
-  twitter: '@karan_6864',
-  site: 'karanpratapsingh.com',
-  calendly: 'https://calendly.com/karanpratapsingh',
+  twitter: '@gokulsaraswat',
+  site: 'gokulsaraswat.me',
+  calendly: 'https://calendly.com/gokulsaraswat',
   links: {
-    github: 'https://github.com/karanpratapsingh',
-    linkedin: 'https://linkedin.com/in/karan99',
-    twitter: 'https://twitter.com/karan_6864',
-    youtube: 'https://www.youtube.com/c/KaranPratapSingh',
-    email: 'mailto:contact@karanpratapsingh.com',
-    buymeacoffee: 'https://www.buymeacoffee.com/karanps',
+    github: 'https://github.com/gokulsaraswat',
+    linkedin: 'https://www.linkedin.com/in/gokul-saraswat/',
+    twitter: 'https://twitter.com/gokulsaraswat',
+    youtube: 'https://www.youtube.com/c/gokulsaraswat',
+    email: 'mailto:gokulsaraswat07@gmail.com',
+    buymeacoffee: 'https://www.buymeacoffee.com/gokuls',
   },
 };
