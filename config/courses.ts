@@ -24,7 +24,7 @@ export const courses: Course[] = [
     slug: 'system-design',
     banner: '/static/courses/system-design/banner.png',
     description:
-      'Learn how to design systems at scale and prepare for system design interviews',
+      'Learn how to design systems at scale and prepare for system design interviews, credits to: Karan Pratap Singh',
     content: [
       {
         name: 'Getting Started',
@@ -304,7 +304,7 @@ export const courses: Course[] = [
     slug: 'go',
     banner: '/static/courses/go/banner.png',
     description:
-      'Master the fundamentals and advanced features of the Go programming language',
+      'Master the fundamentals and advanced features of the Go programming language credits to: Karan Pratap Singh',
     content: [
       {
         name: 'Getting Started',
