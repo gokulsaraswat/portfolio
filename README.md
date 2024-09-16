@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 ## Demonstration
 
 <video src="" autoplay />
